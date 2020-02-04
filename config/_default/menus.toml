@@ -27,10 +27,10 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV (EN)"
-  url = "files/CV_LuisBarragan_EN.pdf"
+  url = "files/LuisBarragan_CV_EN.pdf"
   weight = 70
 
 [[main]]
   name = "CV (ES)"
-  url = "files/CV_LuisBarragan_ES.pdf"
+  url = "files/LuisBarragan_CV_ES.pdf"
   weight = 70
